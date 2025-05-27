@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Change for feature-a
+=======
+Change for feature-b
+>>>>>>> 97cdfc0 (Add feature-a change)
